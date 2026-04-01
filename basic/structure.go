@@ -5,7 +5,6 @@ func main(){
 		name string
 		age int
 		height float64
-	
 	}
 	var info person = person{"Parth", 22, 5.9}
 	fmt.Println(info)
