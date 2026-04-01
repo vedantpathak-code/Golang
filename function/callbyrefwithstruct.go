@@ -22,5 +22,6 @@ func main(){
 	} 
 	fmt.Println("Before calling function:",emp)
 	callByReference(&emp)
+
 	fmt.Println("After calling function:",emp)
 }

@@ -6,5 +6,5 @@ func main(){
 	y := 19
 	ptr2 := &y
 	fmt.Printf("value of x: %d, value of y: %d\n", *ptr1, *ptr2)
-	fmt.Printf("address of x: %s, address of y: %s\n", ptr1, ptr2)
+	fmt.Printf("address of x: %p, address of y: %p\n", ptr1, ptr2)
 }
