@@ -10,4 +10,3 @@ func main(){
 	var info person = person{"Parth", 22, 5.9}
 	fmt.Println(info)
 }
-// structuer data type used for collect differnt-differnet data type
